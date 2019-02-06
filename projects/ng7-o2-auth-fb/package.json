@@ -1,0 +1,11 @@
+{
+  "name": "ng7-o2-auth-fb",
+  "version": "0.3.0",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0",
+    "@angular/router": "~7.1.0",
+    "@angular/fire": "^5.1.1",
+    "firebase": "^5.7.3"
+  }
+}

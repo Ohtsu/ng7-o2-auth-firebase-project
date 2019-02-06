@@ -1,0 +1,36 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es5",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "paths": {
+      "ng7-o2-auth-firebase": [
+        "dist/ng7-o2-auth-firebase"
+      ],
+      "ng7-o2-auth-firebase/*": [
+        "dist/ng7-o2-auth-firebase/*"
+      ],
+      "ng7-o2-auth-fb": [
+        "dist/ng7-o2-auth-fb"
+      ],
+      "ng7-o2-auth-fb/*": [
+        "dist/ng7-o2-auth-fb/*"
+      ]
+    }
+  }
+}
