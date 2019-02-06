@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 
-import { Ng7O2AuthFbService } from '../../../../projects/ng7-o2-auth-fb/src/lib/ng7-o2-auth-fb.service';
-// import { Ng7O2AuthFbService } from 'ng7-o2-auth-fb';
+// import { Ng7O2AuthFbService } from '../../../../projects/ng7-o2-auth-fb/src/lib/ng7-o2-auth-fb.service';
+import { Ng7O2AuthFbService } from 'ng7-o2-auth-fb';
 
 
 import { CustomErrorStateMatcher } from '../../shared/custom-error-state-matcher';
