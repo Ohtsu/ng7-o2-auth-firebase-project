@@ -195,3 +195,4 @@ copyright 2018 by Shuichi Ohtsu (DigiPub Japan)
 ## License
 
 MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
+
